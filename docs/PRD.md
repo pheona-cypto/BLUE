@@ -14,10 +14,9 @@ The target users are primarily university students who have skills they can offe
 ## 5. Stakeholders 
 Stakeholders:
 The stakeholders include the founder or product owner, student service providers, student customers, campus administrators, customer support personnel, the finance team, and the development team. Each stakeholder has a different interest in the platform, ranging from business growth and earning opportunities to user safety, transaction management, customer satisfaction, and the development and maintenance of the platform.
-## 6. User Stories
-## 7. Functional Requirements 
-## 8. Non-Functional Requirements 
-## 9. Scope and Priorities
+## 6. Functional Requirements 
+## 7. Non-Functional Requirements 
+## 8. Scope and Priorities
 Scope defines what Gist & Grind will include in its first version and what can be introduced later.
 Features included in the first version:
 • Student registration and login
@@ -53,7 +52,7 @@ For the MVP, students should be able to:
 5. Search for skills offered by other students.
 6. Send and receive skill-exchange requests.
 These features are enough to introduce the main purpose of Gist & Grind without building every advanced feature immediately.
-## 10. Acceptance Criteria
+## 9. Acceptance Criteria
 Acceptance criteria are the conditions a feature must meet before it can be considered complete.
 Feature
 Acceptance Criteria
@@ -70,7 +69,7 @@ Students can search and find available skills.
 Exchange requests
 Students can send, accept or decline exchange requests.
 
-## 11. Assumptions and Open Questions 
+## 10. Assumptions and Open Questions 
    OPEN QUESTIONS:
 Will payments happen in the app or directly between buyers and sellers?Who handles disputes when something isn't delivered as described?Will we verify students by school email only or by matric number too?Which products and services are not allowed on the platform?Will the platform charge a fee, and who runs it after the pilot.
       ASSUMPTIONS:
