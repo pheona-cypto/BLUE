@@ -19,6 +19,9 @@ From our survey of 12 students on campus, we found that most students value a tr
 ## 7. Functional Requirements
 Students can register and log in. Sellers / service providers can create listings with their prices.Sellers can edit their product listings and mark products as sold.Buyers can search by keyword,category and price range.Buyers can contact service providers.Buyers can add reviews under product listings.Buyers can book services with convenient times and locations.Users can report suspicious product listings.Administrators can review reported listings     
 ## 8. Non-Functional Requirements 
+95% of search results return within 3 seconds.Passwords are securely hashed.Passwords require finger print or facial recognition for auto fill.Failed submission do not create duplicates.Image uploads complete within 5 seconds up to 5mb.Login sessions expire after 24 hours of inactivity.Accounts lock for 15minutes after 5 failed attempts.Users can only edit or delete their own listings.Planned maintenance happens outside peak hours (late at night).Supports 10000 registered users and 50000 listings in the first year.Data is backed up daily
+ 
+
 ## 9. Scope and Priorities
 Scope defines what Gist & Grind will include in its first version and what can be introduced later.
 Features included in the first version:
