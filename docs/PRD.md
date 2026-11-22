@@ -15,15 +15,7 @@ The target users are primarily university students who have skills they can offe
 Stakeholders:
 The stakeholders include the founder or product owner, student service providers, student customers, campus administrators, customer support personnel, the finance team, and the development team. Each stakeholder has a different interest in the platform, ranging from business growth and earning opportunities to user safety, transaction management, customer satisfaction, and the development and maintenance of the platform.
 ## 6. Functional Requirements
-Students can register and log in. 
-Sellers / service providers can create listings with their prices.
-Sellers can edit their product listings and mark products as sold .
-Buyers can search by keyword,category and price range. 
-Buyers can contact service providers. 
-Buyers can add reviews under product listings 
-Buyers can book services with convenient times and locations 
-Users can report suspicious product listings 
-Administrators can review reported listings     
+Students can register and log in. Sellers / service providers can create listings with their prices.Sellers can edit their product listings and mark products as sold.Buyers can search by keyword,category and price range.Buyers can contact service providers.Buyers can add reviews under product listings.Buyers can book services with convenient times and locations.Users can report suspicious product listings.Administrators can review reported listings     
 ## 7. Non-Functional Requirements 
 95% of search results return within 3 seconds 
 Passwords are securely hashed 
