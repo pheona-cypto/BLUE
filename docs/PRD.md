@@ -1,20 +1,18 @@
 # Gist AND Grind PRD
 ## 1. Product Overview
+Product overview:
+A student skill-sharing platform where students can offer their products or services to other students, and interested students can book/buy the service/product. Each product and service is vetted and verified before uploading as well as allowing students to share their opinions on the product to other possible benefactors.
 ## 2. Problem Statement 
+Student entrepreneurs are given little to no means of sharing their products/services around campus. Students are more likely to try new things and be annoyed when it doesn't turn out well due to friends' common ideology i.e. everyone likes chocolate, and be angry at the wasted money and the friend.
 ## 3. Business Objectives
 Business Objectives
-Only verified students can sell, so buyers feel safe.Get enough providers and listings to make the platform worth visiting.
-Keep quality high so buyers return and sellers build a reputation.Prove the idea works at Babcock before expanding.
+Only verified students can sell, so buyers feel safe. Get enough providers and listings to make the platform worth visiting.
+Keep quality high so buyers return and sellers build a reputation. Prove the idea works at Babcock before expanding.
 ## 4. Target users 
-## 5. Stakeholders 
-Target users -> Who will use the products?
-Stakeholders -> Who is involved or affected?
-
-
-Target users;
+Target users:
 The target users are primarily university students who have skills they can offer to others and students who need affordable, convenient services within their campus. These include student freelancers such as braiders, graphic designers, tutors, laundry providers, phone repairers, CV writers, and other students looking for ways to earn money while in school. The platform also caters to students who want to easily find trusted service providers without having to rely on WhatsApp groups or word of mouth.
-
-Stakeholders; 
+## 5. Stakeholders 
+Stakeholders:
 The stakeholders include the founder or product owner, student service providers, student customers, campus administrators, customer support personnel, the finance team, and the development team. Each stakeholder has a different interest in the platform, ranging from business growth and earning opportunities to user safety, transaction management, customer satisfaction, and the development and maintenance of the platform.
 ## 6. User Stories
 ## 7. Functional Requirements 
