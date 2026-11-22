@@ -19,8 +19,59 @@ The stakeholders include the founder or product owner, student service providers
 ## 6. User Stories
 ## 7. Functional Requirements 
 ## 8. Non-Functional Requirements 
-## 9. Scope and Priorities 
-## 10. Acceptance Criteria 
+## 9. Scope and Priorities
+Scope defines what Gist & Grind will include in its first version and what can be introduced later.
+Features included in the first version:
+• Student registration and login
+• Student verification
+• Student profiles
+• Skill listings
+• Searching and browsing skills
+• Sending skill-exchange requests
+Features for future versions:
+• AI skill recommendations
+• Achievement badges
+• Ratings and reviews
+• Advanced messaging features
+2. Feature Prioritisation
+Feature prioritisation determines which features are most important and should be developed first.
+Priority
+Features
+Must Have
+Registration, verification, profiles, skill listings and search
+Should Have
+Messaging
+Could Have
+Ratings, reviews and achievement badges
+Won't Have for Now
+AI recommendations
+3. MVP Definition
+MVP means Minimum Viable Product. It is the simplest working version of Gist & Grind that provides its main purpose.
+For the MVP, students should be able to:
+1. Register and log in.
+2. Verify their student identity.
+3. Create their profiles.
+4. Add skills they can offer.
+5. Search for skills offered by other students.
+6. Send and receive skill-exchange requests.
+These features are enough to introduce the main purpose of Gist & Grind without building every advanced feature immediately.
+## 10. Acceptance Criteria
+Acceptance criteria are the conditions a feature must meet before it can be considered complete.
+Feature
+Acceptance Criteria
+Registration
+Students can create accounts using valid details.
+Verification
+Students can complete the verification process and receive a status.
+Profiles
+Students can create and update their profiles.
+Skill listings
+Students can add, edit and remove their skills.
+Search
+Students can search and find available skills.
+Exchange requests
+Students can send, accept or decline exchange requests.
+
 ## 11. Assumptions and Open Questions 
    OPEN QUESTIONS:
 Will payments happen in the app or directly between buyers and sellers?Who handles disputes when something isn't delivered as described?Will we verify students by school email only or by matric number too?Which products and services are not allowed on the platform?Will the platform charge a fee, and who runs it after the pilot.
