@@ -3,11 +3,11 @@
 ## SYSTEM CONTEXT
 ```mermaid
 flowchart TB
-    Providers["<b>Student Provider</b></br>Creates profiles and list skills or products"]
+    Providers["<b>Student Provider</b><br/>Creates profiles and list skills or products"]
     Consumers["<b>Student Consumers</b><br/>Searches, browses, sends requests/bookings, and reviews"]
     Admin["<b>Administrator</b><br/>Campus Moderator<br/>Reviews reported listings and handles disputes"]
 
-    GG["<b>Campus Connect</b><br/>Software System<br/>Connects verified students to offer, search,<br/>and request skills or products on campus"]
+    GG["<b>Gist & Grind</b><br/>Software System<br/>Connects verified students to offer, search,<br/>and request skills or products on campus"]
 
     Verify["<b>Identity Verification</b><br/>External System<br/>Verifies student status (school email / matric number)"]
     Messaging["<b>Messaging / WhatsApp</b><br/>External System<br/>Private communication and request updates"]
@@ -31,7 +31,7 @@ reported listings and external services handling identity verification, media st
 ```mermaid
 flowchart TD
    A[Gist & Grind Frontend]
-   B["Backend API (Node.js + Express)<br/>Authentication<br/>Student Verification<br/>User Profiles<br/>Skill Listings<br/>Search & Filtering<br/>Exchange Requests"]
+   B["Backend API (Node.js + Express)<br/>Authentication<br/>Student Verification<br/>User Profiles<br/>Skill Listings<br/>Search & Filtering<br/>Exchange Requests<br/>Reports & Moderation"]
    A --> B
    C[PostgreSQL Database]
    B --> C
@@ -49,7 +49,7 @@ The container diagram shows the different parts of Gist & Grind and how they con
 
 ### Context
 
-A five-person development team is building an MVP with evolving requirements and six main features: Authentication(Register and log in, verify student identity), Profiles, Listing & Search, Requests/Bookings, and Reports/Moderation. 
+A five-person development team is building an MVP with evolving requirements and five main features: Authentication(Register and log in, verify student identity), Profiles, Listing & Search, Requests/Bookings, and Reports/Moderation. 
 
 ### Decision
 We will build Gist and Grind as a single Node.js and Express backend, organized into clear, separated modules and backed by a single relational database.
